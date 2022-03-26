@@ -1,0 +1,19 @@
+La primera prueba que realizamos realizamos la comparacion por medio de una variable int hora=4, para almacenar la hora ingresada.
+La hora ingresada se pasa a una variable string, dentro de esta se importa el metodo Utils.getTimeOfDay(el cual almacena hour >= 0 && hour < 6) para realizar la comprobacion de que la hora ingresada este dentro
+de los parametros definidos.
+
+La segunda prueba que realizamos realizamos la comparacion por medio de una variable int hora=8, para almacenar la hora ingresada.
+La hora ingresada se pasa a una variable string, dentro de esta se importa el metodo Utils.getTimeOfDay (el cual almacena hour < 12)para realizar la comprobacion de que la hora ingresada este dentro
+de los parametros definidos.
+
+La tercera prueba que realizamos realizamos la comparacion por medio de una variable int hora=16, para almacenar la hora ingresada.
+La hora ingresada se pasa a una variable string, dentro de esta se importa el metodo Utils.getTimeOfDay (el cual almacena hour < 18)para realizar la comprobacion de que la hora ingresada este dentro
+de los parametros definidos.
+
+La cuarta prueba que realizamos realizamos la comparacion por medio de una variable int hora=22, para almacenar la hora ingresada.
+La hora ingresada se pasa a una variable string, dentro de esta se importa el metodo Utils.getTimeOfDay (el cual almacena hour>18)para realizar la comprobacion de que la hora ingresada este dentro
+de los parametros definidos.
+
+La quinta prueba que realizamos realizamos la comparacion por medio de una variable int hora=28, para almacenar la hora ingresada.
+La hora ingresada se pasa a una variable boolean, dentro de esta se importa el metodo Utils.isValidHour (el cual almacena hour < 0 || hour > 24)para realizar la comprobacion de que la hora ingresada este dentro
+de los parametros definidos.
